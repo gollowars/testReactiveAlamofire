@@ -1,0 +1,2 @@
+# testReactiveAlamofire
+reactiveKITとAlamofireを使うテスト
